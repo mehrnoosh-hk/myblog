@@ -1,6 +1,9 @@
-baseURL = 'http://mehrnoosh-hk.github.io/'
+baseURL = ''
+defaultContentLanguage = "en"
 languageCode = 'en-us'
+
 title = 'Mehrnoosh'
+
 theme = "gokarna"
 
 # Automatically generate robots.txt
