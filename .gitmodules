@@ -1,3 +1,7 @@
 [submodule "mehrnoosh-hk/themes/gokarna"]
 	path = mehrnoosh-hk/themes/gokarna
 	url = https://github.com/526avijitgupta/gokarna.git
+[submodule "mehrnoosh-hk/public"]
+	path = mehrnoosh-hk/public
+	url = https://github.com/mehrnoosh-hk/mehrnoosh-hk.github.io.git
+	branch = main
