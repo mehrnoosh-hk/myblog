@@ -5,7 +5,7 @@ type: "post"
 tags: ["blog", "Hugo"]
 ---
 
-Github provides this assume feature that you can create your own blog / portfolio for free anf Github will serve your content.
+Github provides this awesome feature that you can create your own blog / portfolio for free and Github will serve your content.
 
 The only thing you have to do is to create a repository with specific name:
 
