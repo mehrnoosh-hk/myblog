@@ -11,13 +11,23 @@ enableRobotsTXT = true
 
 [menu]
   [[menu.main]]
-    # Unique identifier for a menu item
     identifier = "posts"
     url = "/posts/"
     name = "Posts"
     weight = 1
+    pre = "<span data-feather='book'></span>"
   [[menu.main]]
     identifier = "tags"
     name = "Tags"
     url = "/tags/"
     weight = 2
+    pre = "<span data-feather='tag'></span>"
+  [[menu.main]]
+    identifier = "about"
+    name = "About Me"
+    url = "/about/about/"
+    weight = 3
+    pre = "<span data-feather='user'></span>"
+
+[params]
+  showPostsOnHomePage = "recent"
