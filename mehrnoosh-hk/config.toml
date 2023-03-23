@@ -4,7 +4,7 @@ languageCode = 'en-us'
 
 title = 'Mehrnoosh'
 
-theme = "gokarna"
+theme = "congo"
 
 # Automatically generate robots.txt
 enableRobotsTXT = true
@@ -31,3 +31,14 @@ enableRobotsTXT = true
 
 [params]
   showPostsOnHomePage = "recent"
+
+[author]
+  name = "Mehenoosh H. Kashani"
+  # image = "img/author.jpg"
+  headline = "THE ONLY WAY TO FAIL IS TO QUIT"
+  bio = "A little bit about me"
+  links = [
+    { github = "https://github.com/mehrnoosh-hk" },
+    { email = "mehrnoosh.h.kashani@gmail.com" },
+    { linkedin = "https://www.linkedin.com/in/mehrnoosh-h-kashani/" },
+  ]

@@ -5,3 +5,7 @@
 	path = mehrnoosh-hk/public
 	url = https://github.com/mehrnoosh-hk/mehrnoosh-hk.github.io.git
 	branch = main
+[submodule "mehrnoosh-hk/themes/congo"]
+	path = mehrnoosh-hk/themes/congo
+	url = https://github.com/jpanther/congo.git
+	branch = stable
