@@ -4,9 +4,6 @@ date: 2023-03-16T15:44:40+03:30
 type: "post"
 tags: ["GitHub", "Hugo"]
 ---
-
-# Create Your Own Site Using GitHub
-
 Github provides this excellent feature where you can create your own blog/portfolio for free and Github will host your content.
 
 The only thing you have to do is create a new repository with a specific name: **username.github.io** and replace the username with your **GitHub username**. You can upload your site or blog content to this repository.
